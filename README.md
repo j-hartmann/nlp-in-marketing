@@ -1,1 +1,1 @@
-# nlp-in-marketing
+# Natural Language Processing in Marketing
